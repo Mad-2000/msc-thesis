@@ -1,0 +1,1 @@
+A Measurement script based on QuMADA, a QCoDeS based measurement framework used for data acquisition and handling framework to facilitate experiments in quantum technology. Also the plotting scripts adapted from A. Sala and T. Offerman which was used during the masters thesis is given here.
