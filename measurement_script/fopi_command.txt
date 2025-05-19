@@ -1,0 +1,1 @@
+python -m fopi -db "C:\Users\lab2\Documents\Measurements\Marcogliese\Batch26\GDSET_smile\S10_D4_20241027.db" -ip 0.0.0.0 -d single-column
